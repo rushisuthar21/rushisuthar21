@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN(MongoDB+Express.js+React+Node.js)**
 
-- 👨‍💻 All of my projects are available at [https://rushisuthar21.github.io/portfolio/](https://rushisuthar21.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at https://rushi-suthar-portfolio.netlify.app/
 
 - 💬 Ask me about **Html, Css, JavaScript, Java, Python, MongoDb, PlSQl, MySql, Google Firebase**
 
